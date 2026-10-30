@@ -66,7 +66,10 @@ python -m budget_app import --from import.csv
 
 
 
-- jsonl과 csv의 비교  
+- jsonl과 csv의 비교
+
+
+
 | 특성 | jsonl | csv |
 | --- | --- | --- |
 | 가독성 | 프로그래밍 언어 친화적 | 사용자,데이터 관련 도구 친화적 |
