@@ -11,11 +11,11 @@ python3 main.py
 
 2.저장 파일 위치/형식
 
-기본 위치 : 파이썬 파일이 위치한 폴더;  
-./data/ : data --dir 명령어 테스트를 위한 경로
+기본 위치 : 파이썬 파일이 위치한 폴더.  
+./data/ : data --dir 명령어 테스트를 위한 경로.
 
 
-3.주요 명령 예시;
+3.주요 명령 예시  
 거래 추가
 ```bash
 python -m budget_app add
