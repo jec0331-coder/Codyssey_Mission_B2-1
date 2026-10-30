@@ -66,8 +66,8 @@ python -m budget_app import --from import.csv
 
 
 
-- jsonl과 csv의 장단점 비교  
-|   | jsonl | csv |
+- jsonl과 csv의 비교  
+| 특성 | jsonl | csv |
 | --- | --- | --- |
 | 가독성 | 프로그래밍 언어 친화적 | 사용자,데이터 관련 도구 친화적 |
 | 유연성 | 행마다 다른 필드 구성 가능 | 모든 행이 동일한 구조(데이터 오염 위험, 스키마 변화에 취약) |
